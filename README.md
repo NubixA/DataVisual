@@ -8,6 +8,8 @@ How to run the code:
 
 `CHART:` The chosen chart design.
 
-Example: node index.mjs SeaData line 
-
 Types of charts: `line | bar | scatter`
+
+# Example: 
+
+node index.mjs SeaData line
